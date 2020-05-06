@@ -6,6 +6,7 @@ Scripts em python para resolver problemas do dia-a-dia e automatizar processos.
 
 #### pytesseract_and_selenium.py
 - Script python com pytesseract e selenium.
+
 selenium - para abrir uma url no Google Chrome e tirar um screenshot
 pytesseract - para extrair os textos contidos neste screenshot
 
