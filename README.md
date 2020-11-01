@@ -12,4 +12,4 @@ selenium - para abrir uma url no Google Chrome e tirar um screenshot
 pytesseract - para extrair os textos contidos neste screenshot
 
 #### xml_replace_string.py
-- Acript python para varrer arquivo XML e realizar os replace de strings específicas.
+- Script python para varrer arquivo XML e realizar os replace de strings específicas.
